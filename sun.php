@@ -65,7 +65,7 @@
 
 
 
-	$url = "http://harizanov.com/emon/api/post?apikey=9aad1b7d53ee3842742c07cfe1781ef4&json={\"azimuth\":$azimuth,\"altitude\":$altitude,\"smodule\":$Smodule}";
+	$url = "http://harizanov.com/emon/api/post?apikey=zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz&json={\"azimuth\":$azimuth,\"altitude\":$altitude,\"smodule\":$Smodule}";
 
 	//echo $url;
 	$ch = curl_init();
